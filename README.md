@@ -8,7 +8,7 @@ Note: Download 311-service-requests-nyc.zip file using the link given in the Cus
 
  
 
-Perform the following steps:
+1.Perform the following steps:
 
 Understand the dataset:
 Identify the shape of the dataset
