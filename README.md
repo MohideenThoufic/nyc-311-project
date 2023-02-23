@@ -13,12 +13,14 @@ Perform the following steps:
 Understand the dataset:
 Identify the shape of the dataset
 Identify variables with null values
+
 2. Perform basic data exploratory analysis:
 
 Utilize missing value treatment
 Analyze the date column and remove the entries if it has an incorrect timeline
 Draw a frequency plot for city-wise complaints
 Draw scatter and hexbin plots for complaint concentration across Brooklyn
+
 3. Find major types of complaints:
 
 Plot a bar graph of count vs. complaint types
